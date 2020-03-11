@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Splurty is a database driven quote generator. 
 
-Things you may want to cover:
+The app is built with Ruby on Rails, CSS, HTML, and The Boostrap Gem.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* The database used is Postgresql.
