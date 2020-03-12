@@ -1,4 +1,4 @@
-# README
+Splurty
 
 Splurty is a database driven quote generator. 
 
